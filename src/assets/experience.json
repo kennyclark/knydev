@@ -1,0 +1,37 @@
+[
+  {
+    "company": "Full Scale",
+    "position": "Software Developer",
+    "duration": "Mar 2022 — Aug 2024",
+    "overview": "I worked as a Software Developer providing offshore development and staff augmentation services to various clients. During my time there, I was assigned to Kindful and Venture360, where I contributed to bug fixes, feature development, and front-end modernization. My work involved Ruby on Rails, ReactJS, and VueJS, focusing on improving application performance and user experience. Through these projects, I gained experience adapting to different development environments and collaborating with diverse teams to deliver high-quality software solutions.",
+    "technologies": ["Ruby", "Rails", "Javascript", "ReactJS", "VueJS", "PostgreSQL"]
+  },
+  {
+    "company": "Venture360",
+    "position": "Software Developer",
+    "duration": "Mar 2024 — May 2024",
+    "overview": "My primary role was migrating legacy Ruby on Rails views to VueJS, modernizing the platform for improved performance and user experience. I refactored and rebuilt UI components, ensuring a smooth transition from server-rendered views to a more dynamic, interactive frontend. Working closely with backend APIs, I optimized data fetching and state management for better responsiveness. I also collaborated with the team to enhance the overall architecture, improving maintainability and scalability. My contributions helped create a more efficient, user-friendly platform for Venture360’s clients.",
+    "technologies": ["Ruby", "Rails", "Javascript", "VueJS"]
+  },
+  {
+    "company": "Kindful",
+    "position": "Software Developer",
+    "duration": "Apr 2022 — Jan 2024",
+    "overview": "I focused on fixing bugs and implementing new features to enhance the user experience of the nonprofit fundraising platform. Using Ruby on Rails and ReactJS, I contributed to building RESTful APIs, improving user experience, and improving system performance. My role involved troubleshooting issues, refining UI components, and optimizing backend processes to create a more intuitive and reliable platform for nonprofit professionals. Through agile development and collaboration with cross-functional teams, I helped improve the software’s usability, allowing organizations to better manage donor relationships and fundraising efforts.",
+    "technologies": ["Ruby", "Rails", "Javascript", "ReactJS", "PostgreSQL"]
+  },
+  {
+    "company": "Overcode Technologies Inc.",
+    "position": "Software Engineer",
+    "duration": "Feb 2021 — Nov 2021",
+    "overview": "I developed scalable web applications using Ruby on Rails, ReactJS, and PostgreSQL, contributing to innovative solutions across logistics, government,  and other industries. I built and optimized RESTful APIs, implemented interactive ReactJS interfaces, and ensured database performance for high-traffic applications. Collaborating with cross-functional teams, I translated business requirements into efficient software solutions. Through agile development, I played a key role in driving digital transformation for clients.",
+    "technologies": ["Ruby", "Rails", "Javascript", "ReactJS", "PostgreSQL"]
+  },
+  {
+    "company": "Bohol Island State University - MC",
+    "position": "Computer Programmer",
+    "duration": "Jul 2017 — Dec 2020",
+    "overview": "Implement features and maintain the different modules(admin, student, registrar, edp, etc.) of BISU-ISMIS (Integrated School Management and Information System) in both front-end and back-end. Develop an online admission portal for application of incoming students (new, transferee and returnee) in both front-end and back-end.",
+    "technologies": ["Go", "Echo", "Javascript", "ReactJS", "PostgreSQL"]
+  }
+]

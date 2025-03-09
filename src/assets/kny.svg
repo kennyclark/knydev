@@ -1,0 +1,7 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M750 100C832.843 100 900 167.157 900 250V900H750V100Z" fill="#4682B4"/>
+<path d="M100 750H900V900H250C167.157 900 100 832.843 100 750Z" fill="#4682B4"/>
+<rect x="100" y="100" width="150" height="550" fill="#4682B4"/>
+<rect x="297.429" y="403.495" width="150" height="565.016" transform="rotate(-45 297.429 403.495)" fill="#4682B4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M443.711 100L144 399.711L250.066 505.777L655.843 100H443.711Z" fill="#4682B4"/>
+</svg>
