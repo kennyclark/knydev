@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "bun --hot src/index.tsx",
     "start": "NODE_ENV=production bun src/index.tsx",
-    "build": "bun run build.ts --minify --source-map=external &&  cp ./src/robots.txt ./dist/robots.txt"
+    "build": "bun run build.ts --minify --source-map=external &&  cp ./src/robots.txt ./dist/robots.txt && cp ./src/assets/og.png ./dist/og.png"
   },
   "dependencies": {
     "bun-plugin-tailwind": "^0.0.14",
